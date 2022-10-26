@@ -1,0 +1,23 @@
+.Header-Container {
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
+  border-bottom: 3px black solid;
+  padding: 25px;
+  font-size: 15px;
+  line-height: .4;
+}
+
+.Header-Name {
+  font-weight: 500;
+  margin-top: 1px;
+}
+
+.Title {
+  font-weight: 170;
+  margin-top: 1px;
+  color: grey;
+}
+
+.Desc {
+  line-height: 1.1;
+  font-size: small;
+}
