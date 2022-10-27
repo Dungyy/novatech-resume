@@ -1,0 +1,44 @@
+.Section2 {
+  font-family: -apple-system, "Roboto", sans-serif;
+  border-bottom: 3px black solid;
+  padding: 20px;
+  font-size: 18px;
+  text-decoration: none;
+  /* text-align: center; */
+  /* display: flex; */
+}
+
+.linkSection {
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  padding: 17px;
+  text-decoration: none;
+  display: inline-block;
+  flex-direction: column;
+  filter: brightness(0);
+  font-weight: 200;
+}
+
+.linkSection-child {
+  text-decoration: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  text-align: center;
+  cursor: pointer;
+}
+
+.linkIcon {
+  font-size: 18px;
+  color: black;
+  text-decoration: none;
+}
+
+.LinkTitle {
+  font-size: 14px;
+  color: black;
+  text-decoration: none;
+  cursor: pointer;
+  margin-left: 10px;
+}

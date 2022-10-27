@@ -2,7 +2,7 @@ import React from 'react'
 import "./Header.css"
 export default function Header() {
   return (
-    <div className='Header-Container'>
+    <div className='Section1'>
         <h1 className='Header-Name'> Erick Munoz</h1>
         <h3 className='Title'>Software Engineer</h3>
         <p className='Desc'>A software engineer with intensive education in program development. In arranging and making imaginative computer program

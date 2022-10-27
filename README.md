@@ -1,7 +1,9 @@
 # Getting Started
 
 `Git Clone `
+
 `npm i `
+
 `npm start`
 
 ## Available Scripts
