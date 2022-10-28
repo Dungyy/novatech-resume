@@ -1,9 +1,9 @@
 .Section1 {
   font-family: -apple-system, BlinkMacSystemFont, "Roboto", sans-serif;
   border-bottom: 3px black solid;
-  padding: 20px;
-  font-size: 18px;
-  line-height: .5;
+  padding: 30px;
+  font-size: 20px;
+  line-height: 0.5;
 }
 
 .Header-Name {
@@ -18,6 +18,6 @@
 }
 
 .Desc {
-  line-height: 1.3;
-  font-size: 17px;
+  line-height: 1.8;
+  font-size: 18px;
 }

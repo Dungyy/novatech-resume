@@ -1,4 +1,4 @@
-export const LinkData = [
+export const Links = [
   {
     id: 1,
     title: "erickmunoztech@gmail.com",
@@ -33,6 +33,6 @@ export const LinkData = [
     id: 6,
     title: "medium.com/@hacker.dungy",
     visit: "https://medium.com/@hacker.dungy",
-    icon: " linkIcon GithubIcon fa-brands fa-medium",
+    icon: "linkIcon GithubIcon fa-brands fa-medium",
   },
 ];

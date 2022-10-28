@@ -1,0 +1,87 @@
+.Section3 {
+  font-family: -apple-system, "Roboto", sans-serif;
+  padding: 30px;
+  font-size: 16px;
+  display: flex;
+  height: 45rem;
+}
+
+.experienceSection {
+  min-height: 100;
+  flex-grow: 1;
+  flex: 3;
+  display: block;
+  flex-direction: column;
+  text-align: left;
+  height: 4;
+  position: relative;
+}
+
+.experienceSection-child {
+  min-height: 100px;
+  flex-grow: 20;
+  flex-direction: column;
+  flex: 1;
+  text-align: left;
+  line-height: 3rem;
+}
+
+.experienceTitle p {
+  color: grey;
+  font-size: small;
+}
+
+.tasks ul {
+  list-style: none;
+  line-height: 3rem;
+  text-align: left;
+  font-size: 17px;
+}
+
+.task li {
+  font-size: 17px;
+  line-height: 3rem;
+}
+
+.Taglist button {
+  display: block;
+  border: 0;
+  border-radius: 5px;
+  background-color: grey;
+  font-size: 17px;
+  color: #fff;
+  padding: 8px;
+}
+
+.tag {
+  text-align: center;
+  padding: 10px;
+  height: 20px;
+  align-content: space-between;
+  position: relative;
+}
+
+.projectList {
+  list-style: none;
+  text-decoration: none;
+  cursor: pointer;
+  text-align: left;
+}
+
+.projectList p {
+  text-align: left;
+  margin-right: 35px;
+  width: 25rem;
+  height: 2rem;
+  cursor: pointer;
+  font-size: 15px;
+  line-height: -15px;
+  margin-bottom: -10px;
+}
+
+.projectList a {
+  color: rgb(10, 176, 231);
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 15px;
+}

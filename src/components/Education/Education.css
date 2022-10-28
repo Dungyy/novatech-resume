@@ -1,0 +1,38 @@
+.SectionEd {
+  font-family: -apple-system, "Roboto", sans-serif;
+  padding: 30px;
+  font-size: 16px;
+  display: flex;
+  margin-top: -220px;
+}
+
+.educationSection {
+  display: block;
+  flex-direction: column;
+  text-align: left;
+  height: 4;
+  width: 100%;
+  float: top;
+}
+
+.ed-left {
+  width: 30%;
+  float: left;
+}
+
+.ed-right {
+  width: 30%;
+  float: right;
+  margin-right: 500px;
+}
+
+.educationSection p {
+  color: grey;
+  font-size: small;
+}
+
+.task ul {
+  list-style: none;
+  line-height: 2rem;
+  text-align: left;
+}
